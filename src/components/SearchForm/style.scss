@@ -1,0 +1,33 @@
+.search-form {
+  padding: 20px 30px;
+  margin-bottom: 30px;
+
+  input {
+    &[type='text'] {
+      padding: 10px 15px;
+      width: 80%;
+    }
+
+    &[type='text'],
+    &[type='submit'] {
+      color: #7488ab;
+      text-decoration: none;
+      padding: 15px;
+      border: 2px solid #7488ab;
+      display: block;
+      align-self: center;
+      transition-duration: .5s;
+      background-color: transparent;
+      margin: 10px auto 20px;
+
+      &:hover,
+      &:active,
+      &:focus {
+        color: #fff;
+        border-color: #fff;
+        box-shadow: 0 .5em .5em -.4em #fff;
+        transform: translateY(-.25em);
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+.footer {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+
+  &__text {
+    color: #7488ab;
+  }
+}

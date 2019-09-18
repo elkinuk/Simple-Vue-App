@@ -1,0 +1,20 @@
+.link {
+  margin: 10px auto;
+  color: #7488ab;
+  text-decoration: none;
+  padding: 7px 15px;
+  border: 2px solid #7488ab;
+  display: block;
+  align-self: center;
+  transition-duration: .5s;
+  max-width: 150px;
+  text-align: center;
+  cursor: pointer;
+
+  &:hover {
+    color: #fff;
+    border-color: #fff;
+    box-shadow: 0 .5em .5em -.4em #fff;
+    transform: translateY(-.25em);
+  }
+}
