@@ -1,0 +1,15 @@
+.header {
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 40px;
+  text-shadow: 1px 5px 20px rgba(255, 255, 255, .4);
+}

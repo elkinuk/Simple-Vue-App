@@ -1,0 +1,22 @@
+* {
+  font-size: 17px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #17181c;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
