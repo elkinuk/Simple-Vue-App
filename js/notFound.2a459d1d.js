@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["notFound"],{f0c9:function(n,t,e){"use strict";e.r(t);var o=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[e("FluidLetters",{scopedSlots:n._u([{key:"content",fn:function(){return[n._v("\n      404\n    ")]},proxy:!0}])})],1)},u=[],c=e("f2b3"),r={name:"NotFound",components:{FluidLetters:c["a"]}},s=r,l=e("2877"),i=Object(l["a"])(s,o,u,!1,null,null,null),a=i.exports;t["default"]=a}}]);
-//# sourceMappingURL=notFound.c2adf8e6.js.map
+//# sourceMappingURL=notFound.2a459d1d.js.map
