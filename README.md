@@ -1,5 +1,7 @@
 # vue-movie
 
+[Check live](https://elkinny.github.io/Simple-Vue-App/)
+
 ## Project setup
 ```
 npm install
